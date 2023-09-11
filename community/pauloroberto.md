@@ -2,7 +2,7 @@
 Olá! Eu sou a Paulo e ajudo a Eli nos tutoriais de Git e GitHub.
 
 ## Conecte-se comigo
-[![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/octoeli)
+[![GitHub]([https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/octoeli](https://github.com/Paulinhoroberto/dio-lab-open-source/edit/main/community/pauloroberto.md))
 
 ## Habilidades
 [![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/)
